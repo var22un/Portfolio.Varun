@@ -1,0 +1,737 @@
+/*mobile 770px start*/
+
+
+@media (max-width:770px){
+    body{
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-family: sans-serif;
+      padding: 0;
+      margin: 0;
+    }
+    .type ,.type1{
+      font-size: 13px;
+      text-shadow: none;
+      margin: 0;
+      padding: 0;
+    }
+    #main_box{
+      padding:10px;
+      margin: 0%;
+     
+    }
+    .type2{
+      font-size: 7px;
+      text-shadow: none;
+    }
+    #first_box{
+     max-height:  290px;
+    }
+    .back_said{
+      max-height: 200px;
+     
+     
+     
+      
+    }
+    #page_1{
+max-height: 200px;
+max-width: 100%;
+
+    }
+#images{
+max-width: 100%;
+max-height: 160px;
+margin-left: 10px;
+margin-right: 0%;
+
+}
+a #red{
+font-size: 15px;
+}
+a #red1{
+font-size: 12px;
+}
+#name_bo{
+max-height: 75px;
+}
+#i_d{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+div.m_b{
+max-width: 120px;
+margin: 5px;
+padding: 2px;
+border-right: solid green;
+border-right-style: dotted;
+}
+#pro_g{
+max-width: 150px;
+font-size: 10px;
+
+}
+.progress{
+max-height: 5px;
+padding: 0%;
+
+}
+.progress-bar{
+max-height: 5px;
+}
+div#red{
+font-size: 13px;
+} 
+.title{
+font-size: 10px;
+text-align: center;
+font-weight: bold; 
+}
+#servi_box{
+flex-wrap: wrap;
+}
+#serv_titel{
+max-width: 160px;
+max-height: 180px;
+
+}
+#serv_box{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box2{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box3{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box4{
+max-width: 148px;
+max-height: 130px;
+}
+#heading1,#heading2,#heading3,#heading4{
+font-size: 15px;
+}
+#cont_nn{
+max-width: 100px;
+}
+.none_img{
+display: block;
+}
+#Bor_price{
+border: solid black;
+font-size: 10px;
+} 
+#Bor_priceT{
+border: solid red;
+font-size: 10px;
+} 
+
+#bor_myprice{
+font-weight: bold;
+border: solid green;
+font-size: 10px;
+}
+p #my_p{
+padding: 5px;
+margin: 5px;
+font-size: 10px;
+display: none;
+
+}
+div .type_back{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+
+
+  }
+
+/*mobile 520px start*/
+
+@media (max-width:520px){
+    body{
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-family: sans-serif;
+      padding: 0;
+      margin: 0;
+    }
+    .title{
+      font-size: 1px;
+    }
+    #siz{
+  font-size: 15px;
+  padding: 6px;
+  margin: 0%;
+  border: solid black;
+}
+    .type ,.type1{
+      font-size: 13px;
+      text-shadow: none;
+      margin: 0;
+      padding: 0;
+    }
+    #main_box{
+      padding:10px;
+      margin: 0%;
+     
+    }
+    .type2{
+      font-size: 7px;
+      text-shadow: none;
+    }
+    #first_box{
+     max-height:  290px;
+    }
+    .back_said{
+      max-height: 200px;
+     
+      
+    }
+    #page_1{
+max-height: 140px;
+
+    }
+#images{
+max-width: 100%;
+max-height: 130px;
+margin-left: 10px;
+margin-right: 0%;
+
+}
+a #red{
+font-size: 13px;
+}
+a #red1{
+font-size: 10px;
+}
+#name_bo{
+max-height: 75px;
+}
+#i_d{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+div.m_b{
+max-width: 120px;
+margin: 5px;
+padding: 2px;
+border-right: solid green;
+border-right-style: dotted;
+}
+#pro_g{
+max-width: 150px;
+font-size: 10px;
+
+}
+.progress{
+max-height: 5px;
+padding: 0%;
+
+}
+.progress-bar{
+max-height: 5px;
+}
+div#red{
+font-size: 13px;
+} 
+.title{
+font-size: 10px;
+text-align: center;
+font-weight: bold; 
+}
+#servi_box{
+flex-wrap: wrap;
+}
+#serv_titel{
+max-width: 160px;
+max-height: 180px;
+
+}
+#serv_box{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box2{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box3{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box4{
+max-width: 148px;
+max-height: 130px;
+}
+#heading1,#heading2,#heading3,#heading4{
+font-size: 15px;
+}
+#cont_nn{
+max-width: 100px;
+}
+.none_img{
+display: none;
+}
+#Bor_price{
+border: solid black;
+font-size: 10px;
+} 
+#Bor_priceT{
+border: solid red;
+font-size: 10px;
+} 
+
+#bor_myprice{
+font-weight: bold;
+border: solid green;
+font-size: 10px;
+}
+p #my_p{
+padding: 5px;
+margin: 5px;
+font-size: 10px;
+display: none;
+
+}
+div .type_back{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+
+
+  }
+
+  /*mobile 430px start*/
+
+  @media (max-width:430px){
+    body{
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-family: sans-serif;
+      padding: 0;
+      margin: 0;
+    }
+    #clint_box{
+      max-width: 100%;
+    }
+    .type ,.type1{
+      font-size: 13px;
+      text-shadow: none;
+      margin: 0;
+      padding: 0;
+    }
+    #main_box{
+      padding:10px;
+      margin: 0%;
+     
+    }
+    .type2{
+      font-size: 7px;
+      text-shadow: none;
+    }
+    #first_box{
+     max-height:  290px;
+    }
+    .back_said{
+      max-height: 200px;
+     
+      
+    }
+    #page_1{
+max-height: 140px;
+
+    }
+#images{
+max-width: 100%;
+max-height: 130px;
+margin-left: 10px;
+margin-right: 0%;
+
+}
+a #red{
+font-size: 13px;
+}
+a #red1{
+font-size: 10px;
+}
+#name_bo{
+max-height: 75px;
+}
+#i_d{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+div.m_b{
+max-width: 120px;
+margin: 5px;
+padding: 2px;
+border-right: solid green;
+border-right-style: dotted;
+}
+#pro_g{
+max-width: 150px;
+font-size: 10px;
+
+}
+.progress{
+max-height: 5px;
+padding: 0%;
+
+}
+.progress-bar{
+max-height: 5px;
+}
+div#red{
+font-size: 13px;
+} 
+.title{
+font-size: 10px;
+text-align: center;
+font-weight: bold; 
+}
+#servi_box{
+flex-wrap: wrap;
+}
+#serv_titel{
+max-width: 160px;
+max-height: 180px;
+
+}
+#serv_box{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box2{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box3{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box4{
+max-width: 148px;
+max-height: 130px;
+}
+#heading1,#heading2,#heading3,#heading4{
+font-size: 15px;
+}
+#cont_nn{
+max-width: 100px;
+}
+.none_img{
+display: none;
+}
+#Bor_price{
+border: solid black;
+font-size: 10px;
+} 
+#Bor_priceT{
+border: solid red;
+font-size: 10px;
+} 
+
+#bor_myprice{
+font-weight: bold;
+border: solid green;
+font-size: 10px;
+}
+p #my_p{
+padding: 5px;
+margin: 5px;
+font-size: 10px;
+display: none;
+
+}
+div .type_back{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+
+
+  }
+
+  /* mobile 330px start*/
+
+  @media (max-width:330px){
+    body{
+      overflow-y: auto;
+      overflow-x: hidden;
+      font-family: sans-serif;
+      padding: 0;
+      margin: 0;
+    }
+    .type ,.type1{
+      font-size: 13px;
+      text-shadow: none;
+      margin: 0;
+      padding: 0;
+    }
+    #main_box{
+      padding:10px;
+      margin: 0%;
+     
+    }
+    .type2{
+      font-size: 7px;
+      text-shadow: none;
+    }
+    #first_box{
+     max-height:  290px;
+    }
+    .back_said{
+      max-height: 200px;
+     
+      
+    }
+    #page_1{
+max-height: 140px;
+
+    }
+#images{
+max-width: 200px;
+max-height: 90px;
+margin-left: 20px;
+
+}
+a #red{
+font-size: 13px;
+}
+a #red1{
+font-size: 10px;
+}
+#name_bo{
+max-height: 75px;
+}
+#i_d{
+max-width: 100px;
+max-height: fit-content;
+font-size: 8px;
+margin: 0%;
+padding: 0%;
+}
+div.m_b{
+max-width: 120px;
+margin: 5px;
+padding: 2px;
+border-right: solid green;
+border-right-style: dotted;
+}
+#pro_g{
+max-width: 150px;
+font-size: 10px;
+
+}
+.progress{
+max-height: 5px;
+padding: 0%;
+
+}
+.progress-bar{
+max-height: 5px;
+}
+div#red{
+font-size: 13px;
+} 
+.title{
+font-size: 10px;
+text-align: center;
+font-weight: bold; 
+}
+#servi_box{
+flex-wrap: wrap;
+}
+#serv_titel{
+max-width: 160px;
+max-height: 180px;
+
+}
+#serv_box{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box2{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box3{
+max-width: 148px;
+max-height: 130px;
+}
+#serv_box4{
+max-width: 148px;
+max-height: 130px;
+}
+#heading1,#heading2,#heading3,#heading4{
+font-size: 15px;
+}
+#cont_nn{
+max-width: 100px;
+}
+.none_img{
+display: none;
+}
+#Bor_price{
+border: solid black;
+font-size: 10px;
+} 
+#Bor_priceT{
+border: solid red;
+font-size: 10px;
+} 
+
+#bor_myprice{
+font-weight: bold;
+border: solid green;
+font-size: 10px;
+}
+
+
+  }
+
+#red{
+font-size: 25px;
+}
+#red1{
+font-size: 18px;
+}
+.m_b{
+margin: 10px;
+padding: 10px;
+}
+#cont_nn{
+
+width: 152px;
+}
+#first_box{
+background: linear-gradient(-45deg, #e3fba8, #f794ba, #b6b1f5, #23d5ab , rgb(109, 241, 109));
+animation: varun 15s  infinite;
+background-size: 500% 500%;
+}
+@keyframes varun{
+0% {
+  background-position: 0% 50%;
+}
+50% {
+  background-position: 100% 50%;
+}
+100% {
+  background-position: 0% 50%;
+}
+}
+
+#first_box1{
+background: linear-gradient(-45deg, #e3fba8, #f794ba, #b6b1f5, #23d5ab , rgb(109, 241, 109));
+animation: varun1 15s  infinite;
+background-size: 500% 500%;
+}
+@keyframes varun1{
+0% {
+  background-position: 0% 50%;
+}
+50% {
+  background-position: 100% 50%;
+}
+100% {
+  background-position: 0% 50%;
+}
+}
+
+#my_p{
+padding: 5px;
+margin: 5px;
+font-size: 20px;
+font-family: 'Sofia';
+font-weight: bolder;
+}
+#bar_div{
+margin: auto;
+margin-right: 5px;
+cursor: pointer;
+
+}
+#hed_r{
+background: linear-gradient(-35deg, rgb(249, 202, 109),rgb(250, 250, 248),rgb(181, 237, 149));
+animation: divya 10s  infinite;
+background-size: 500% 500%;
+}
+@keyframes divya{
+0% {
+  background-position: 0% 50%;
+}
+50% {
+  background-position: 100% 50%;
+}
+100% {
+  background-position: 0% 50%;
+}
+}
+
+#siz{
+border: none;
+}
+#main_box{
+text-align: left;
+
+width: 50%;
+
+
+box-sizing: border-box;
+
+
+
+}  
+
+#move{
+
+
+position: relative;
+animation: myfirst 20s infinite ;
+animation-direction: alternate;
+}
+
+@keyframes myfirst {
+0%   {background: transparent; left: 0px; top: 0px;}
+25%  {background: transparent; left: 100%; top: 0px;}
+50%  {background: transparent; left: 10px; top: 10px;}
+75%  {background: transparent; left: 0px; top: 10px;}
+100% {background: transparent; left: 0px; top: 0px;}
+}
+
+#move1{
+
+display: none;
+position: relative;
+animation: myfirst1 20s infinite ;
+animation-direction: alternate;
+}
+
+@keyframes myfirst1 {
+0%   {background: transparent; left: 0px; top: 0px;}
+25%  {background: transparent; left: 100%; top: 0px;}
+50%  {background: transparent; left: 10px; top: 10px;}
+75%  {background: transparent; left: 20px; top: 10px;}
+100% {background: transparent; left: 0px; top: 30px;}
+}
